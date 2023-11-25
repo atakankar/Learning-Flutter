@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "27027134015",
+    "project_id": "instagram-clone-e254f",
+    "storage_bucket": "instagram-clone-e254f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27027134015:android:008134f2dc7ea9ed7e8a8a",
+        "android_client_info": {
+          "package_name": "com.ascre.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27027134015-i4aql0s10su3t7i5j6aj9af4dkj88p47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ascre.instagram",
+            "certificate_hash": "6e74ed80fd547b7a19e66f8eab1fcc8cf4fe0835"
+          }
+        },
+        {
+          "client_id": "27027134015-gd05446knthk4b7srnvrvucobv10ulqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2mjSeZh74LU6wp2q0vcG5jr69yRsd5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27027134015-gd05446knthk4b7srnvrvucobv10ulqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27027134015-19smodq3t6oqjs5v2l1gmv9ahet1l36c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascre.instagram"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27027134015:android:7d27730d453254467e8a8a",
+        "android_client_info": {
+          "package_name": "com.ascre.tiktokclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27027134015-gd05446knthk4b7srnvrvucobv10ulqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN2mjSeZh74LU6wp2q0vcG5jr69yRsd5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27027134015-gd05446knthk4b7srnvrvucobv10ulqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27027134015-19smodq3t6oqjs5v2l1gmv9ahet1l36c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascre.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
